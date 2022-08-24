@@ -1,4 +1,5 @@
 # Review_Sentiment_Analysis
+Hello there, this is a machine learning project based on NLP which classifies the review texts into positive or negative category.
 
 ## Link to Web Application
 
